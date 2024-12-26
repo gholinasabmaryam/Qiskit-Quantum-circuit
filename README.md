@@ -26,10 +26,12 @@ Before you dive in, make sure you’ve got the following:
    cd Qiskit-Quantum-circuit
    
 2. Install the dependencies:
-  ```pip install qiskit notebook```  
+   ```bash  
+   pip install qiskit notebook
 
 4. open the notebook:
-  ```jupyter notebook```
+   ```bash  
+   jupyter notebook
 
 5. Run ```Qislit_IBM.ipynb``` and follow along!
  You’ll see how circuits are created and optimized step by step.
@@ -41,14 +43,6 @@ Quantum computing is still in its early days, and making circuits run efficientl
 - **Optimization problems in logistics and finance**
 - **Simulation of complex quantum systems in physics and chemistry**
 
-## How to Contribute
-Contributions are welcome!
-
-1. Fork the repository.
-2. Create a feature branch (`git checkout -b feature-name`).
-3. Commit your changes (`git commit -m "Add feature"`).
-4. Push to your branch (`git push origin feature-name`).
-5. Open a pull request.
 
 ## License
 This project is in the public domain under **The Unlicense**. Feel free to use it however you like—improve it, share it, or just play around!
