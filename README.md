@@ -34,15 +34,28 @@ Before you dive in, make sure you’ve got the following:
 5. Run ```Qislit_IBM.ipynb``` and follow along!
  You’ll see how circuits are created and optimized step by step.
 
-Why Does This Matter?
-Quantum computing is still in its early days, and making circuits run efficiently on hardware is a big challenge. This project is a small contribution to understanding how we can make quantum computers more practical and effective.
+## Why Does This Matter?
+Quantum computing is still in its early days, and making circuits run efficiently on hardware is a big challenge. This project is a small contribution to understanding how we can make quantum computers more practical and effective. Some real-world applications of quantum computing include:
 
-**License**
-This project is in the public domain under The Unlicense. Feel free to use it however you like—improve it, share it, or just play around!
+- **Cryptography and secure communication**
+- **Optimization problems in logistics and finance**
+- **Simulation of complex quantum systems in physics and chemistry**
 
-##Got Feedback?
+## How to Contribute
+Contributions are welcome!
+
+1. Fork the repository.
+2. Create a feature branch (`git checkout -b feature-name`).
+3. Commit your changes (`git commit -m "Add feature"`).
+4. Push to your branch (`git push origin feature-name`).
+5. Open a pull request.
+
+## License
+This project is in the public domain under **The Unlicense**. Feel free to use it however you like—improve it, share it, or just play around!
+
+## Got Feedback?
 I’d love to hear from you! Whether you have suggestions, find an issue, or just want to chat about quantum computing, feel free to reach out:
 
-GitHub: @gholinasabmaryam
-Thanks for stopping by, and happy coding!
+**GitHub**: [@gholinasabmaryam](https://github.com/gholinasabmaryam)
 
+Thanks for stopping by, and happy coding!
