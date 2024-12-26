@@ -45,9 +45,9 @@ This project is in the public domain under **The Unlicense**. Feel free to use i
 ## Got Feedback?
 I’d love to hear from you! Whether you have suggestions, find an issue, or just want to chat about quantum computing, feel free to reach out:
 
-**GitHub**: [MaryamGholinasab](https://github.com/gholinasabmaryam)
+[GitHub](https://github.com/gholinasabmaryam)
 
-**LinkedIn **: [Maryam Gholinasab](https://www.linkedin.com/in/maryamgholinasab)
+[LinkedIn](https://www.linkedin.com/in/maryamgholinasab)
 
 
 Thanks for stopping by, and happy coding!
