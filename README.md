@@ -37,10 +37,10 @@ Before you dive in, make sure you’ve got the following:
 Why Does This Matter?
 Quantum computing is still in its early days, and making circuits run efficiently on hardware is a big challenge. This project is a small contribution to understanding how we can make quantum computers more practical and effective.
 
-License
+**License**
 This project is in the public domain under The Unlicense. Feel free to use it however you like—improve it, share it, or just play around!
 
-Got Feedback?
+##Got Feedback?
 I’d love to hear from you! Whether you have suggestions, find an issue, or just want to chat about quantum computing, feel free to reach out:
 
 GitHub: @gholinasabmaryam
